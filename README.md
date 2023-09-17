@@ -1,5 +1,7 @@
 # vue_ubi
 
+Training project. https://youtu.be/XzLuMtDelGk?si=o5hCbCHuCjK3qzYd
+
 ## Project setup
 ```
 npm install
